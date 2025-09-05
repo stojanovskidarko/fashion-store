@@ -11,9 +11,6 @@
         "@page-objects/*": [
             "page-objects/*"
         ],
-        "@utils/*": [
-            "utils/*"
-        ],
         "@tests/*": [
             "tests/*"
         ]
